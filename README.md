@@ -36,6 +36,15 @@ The U-Net consists of:
 
 
 ---
+##  some results
+<img width="1111" height="754" alt="image" src="https://github.com/user-attachments/assets/8e082c07-bf6e-4196-ba1e-103104762c03" />
+
+<img width="1107" height="768" alt="image" src="https://github.com/user-attachments/assets/5917183b-0d60-4490-bdf5-8d56ddba8906" />
+
+
+
+
+
 
 ##  Requirements
 
